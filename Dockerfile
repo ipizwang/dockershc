@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM alpine:edge
 
 ENV SHURL https://raw.githubusercontent.com/ipizwang/across/master/dockershc/v.sh
 
